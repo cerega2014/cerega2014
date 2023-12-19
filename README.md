@@ -32,7 +32,7 @@
 
 ---
 ### Образцы тестовой документации: 
- [![Google](https://www.flaticon.com/free-icon/google_2504739?term=google&page=1&position=16&origin=search&related_id=2504739)](https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe)
+ [![Google](https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png)](https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe)
  ---
 
 ### 📁 Тестовая документация:
