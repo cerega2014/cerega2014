@@ -43,10 +43,10 @@
   <img src="https://luna1.co/eb0187.png" width="40" height="40" alt="qase" />
 </a>
 <a href="https://github.com/cerega2014/youtrack" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" width="40" height="40" alt="qase" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" width="40" height="40" alt="youtrack" />
 </a>
 <a href="https://github.com/cerega2014/Git" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="qase" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="40" height="40" alt="git" />
 </a>
 
 
