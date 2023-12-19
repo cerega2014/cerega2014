@@ -31,9 +31,14 @@
   </div>
 
 ---
-### Образцы тестовой документации: 
- [![Google](https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png)](https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe)
- ---
+### Образцы тестовой документации
+
+<a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png" width="40" height="40" alt="Google Drive" />
+</a>
+
+---
+
 
 ### 📁 Тестовая документация:
 
