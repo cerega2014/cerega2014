@@ -32,11 +32,7 @@
 
 ---
 ### Образцы тестовой документации: 
- <div id="badges">
-    <a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/google_2504739?term=google&page=1&position=16&origin=search&related_id=2504739" width="40" height="40" alt="google" />
-    </a>
-  </div>
+ [![Google](https://www.flaticon.com/free-icon/google_2504739?term=google&page=1&position=16&origin=search&related_id=2504739)](https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe)
  ---
 
 ### 📁 Тестовая документация:
@@ -89,5 +85,3 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cerega2014)
