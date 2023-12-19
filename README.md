@@ -18,7 +18,7 @@
 
 
 - 📫 Как связаться со мной:
- [![VK Badge](https://img.shields.io/badge/vk-Сергей_Казаков-blue)](https://vk.com/cerega2014) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](cerega193@yandex.ru)
+ [![VK Badge](https://img.shields.io/badge/vk-Сергей_Казаков-blue)](https://vk.com/cerega2014) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:cerega193@yandex.ru)
 
 ---
 
