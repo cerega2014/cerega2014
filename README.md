@@ -34,10 +34,10 @@
 ### Образцы тестовой документации: 
  <div id="badges">
     <a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/sheets_281761?term=google&page=1&position=18&origin=search&related_id=281761" width="40" height="40" alt="google" />
+      <img src="https://www.flaticon.com/free-icon/google_2504739?term=google&page=1&position=16&origin=search&related_id=2504739" width="40" height="40" alt="google" />
     </a>
   </div>
----
+ ---
 
 ### 📁 Тестовая документация:
 
@@ -90,4 +90,4 @@
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cerega2014)
