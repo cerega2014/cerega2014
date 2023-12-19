@@ -42,6 +42,9 @@
 <a href="https://github.com/cerega2014/qase" target="_blank">
   <img src="https://luna1.co/eb0187.png" width="40" height="40" alt="qase" />
 </a>
+<a href="https://github.com/cerega2014/youtrack" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" width="40" height="40" alt="qase" />
+</a>
 
 
 ---
