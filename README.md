@@ -26,7 +26,7 @@
 
   <div id="badges">
     <a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="google" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
@@ -34,7 +34,7 @@
 ### Образцы тестовой документации: 
  <div id="badges">
     <a href="https://t.me/Cerega2014" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/google-drive_5968523?term=google&page=1&position=10&origin=search&related_id=5968523" width="40" height="40" alt="telegram" />
+      <img src="https://www.flaticon.com/free-icon/google-drive_5968523?term=google&page=1&position=10&origin=search&related_id=5968523" width="40" height="40" alt="google" />
     </a>
   </div>
 ---
