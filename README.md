@@ -31,13 +31,16 @@
   </div>
 
 ---
-### Образцы тестовой документации и коллекцция в Postman:
+### Образцы тестовой документации:
 
 <a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png" width="40" height="40" alt="Google Drive" />
 </a>
 <a href="https://www.postman.com/interstellar-star-287250/workspace/12/collection/26044076-51cbb310-2c21-4bc6-bbfe-359fdc7c3ef3?action=share&creator=26044076" target="_blank">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" alt="Postman" />
+</a>
+<a href="https://github.com/cerega2014/qase" target="_blank">
+  <img src="https://luna1.co/eb0187.png" width="40" height="40" alt="qase" />
 </a>
 
 
