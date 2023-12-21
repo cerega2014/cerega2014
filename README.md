@@ -1,4 +1,4 @@
-# Привет, меня зовут Cергей!
+ Привет, меня зовут Cергей!
 
 ---
 
@@ -18,18 +18,9 @@
 
 
 - 📫 Как связаться со мной:
- [![VK Badge](https://img.shields.io/badge/vk-Сергей_Казаков-blue)](https://vk.com/cerega2014) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:cerega193@yandex.ru)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/Cerega2014" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
+- [VK](https://vk.com/cerega2014)
+- [Yandex.Mail](mailto:cerega193@yandex.ru)
+- [Telegram](https://t.me/Cerega2014)
 ---
 ### Образцы тестовой документации:
 
@@ -97,3 +88,4 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+#
