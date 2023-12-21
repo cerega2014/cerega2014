@@ -1,14 +1,3 @@
- <!-- Замените 'UA-XXXXX' на ваш код отслеживания -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'G-Y4KWX7NZ2N');
-</script>
-
  Привет, меня зовут Cергей!
 
 ---
