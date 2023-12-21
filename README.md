@@ -33,21 +33,16 @@
 ---
 ### Образцы тестовой документации:
 
-<a href="https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png" width="40" height="40" alt="Google Drive" />
-</a>
-<a href="https://www.postman.com/interstellar-star-287250/workspace/12/collection/26044076-51cbb310-2c21-4bc6-bbfe-359fdc7c3ef3?action=share&creator=26044076" target="_blank">
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" alt="Postman" />
-</a>
-<a href="https://github.com/cerega2014/qase" target="_blank">
-  <img src="https://luna1.co/eb0187.png" width="40" height="40" alt="qase" />
-</a>
-<a href="https://github.com/cerega2014/youtrack" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" width="40" height="40" alt="youtrack" />
-</a>
-<a href="https://github.com/cerega2014/Git" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="40" height="40" alt="git" />
-</a>
+- [Текстовая документация (чек-листы, тест-кейсы)](https://drive.google.com/drive/folders/1dg74TiGDVsJaXvrRWT5XkXXH5imM_PFe)
+
+- [Коллекция в Postman](https://www.postman.com/interstellar-star-287250/workspace/12/collection/26044076-51cbb310-2c21-4bc6-bbfe-359fdc7c3ef3?action=share&creator=26044076)
+
+- [Тест кейсы из "Qase"](https://github.com/cerega2014/qase)
+
+- [Баг репорты из "YouTrack"](https://github.com/cerega2014/youtrack)
+
+- [Примеры запросов для Git](https://github.com/cerega2014/Git)
+
 
 
 ### С чем я работал:
