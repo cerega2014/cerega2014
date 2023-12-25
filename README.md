@@ -21,6 +21,7 @@
 - [VK](https://vk.com/cerega2014)
 - [Yandex.Mail](mailto:cerega193@yandex.ru)
 - [Telegram](https://t.me/Cerega2014)
+- [Резюме](https://github.com/cerega2014/My-CV)
 ---
 ### Образцы тестовой документации:
 
